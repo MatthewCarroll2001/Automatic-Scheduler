@@ -1,7 +1,7 @@
 # Automatic-Scheduler
 Set of scripts that schedules employees for shifts throughout the week based on availability, shift times, and shift necessities
 
-** Run schedule_master.py to run project**
+** Run "schedule_master.py" to run project**
 
 This script is a small project that I decided to complete during December 2021
 This is not work for my classes or major, just something that I decided to do
@@ -22,3 +22,6 @@ Possible flaws:
   * Could utilize another script to further abstract creation of data tables
   * Might not be fully optimized for searching through employee data
   * More features could be implemented such as accounting for days off or different shift times for different days
+
+
+"schedule plan.txt" is not a final plan, but just a rough outline before I started to give me some direction
