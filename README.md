@@ -3,7 +3,7 @@ Set of scripts that schedules employees for shifts throughout the week based on 
 
 ** Run "schedule_master.py" to run project**
 
-This script is a small project that I decided to complete during December 2021
+This script is a small project that I decided to complete during December 2021.
 This is not work for my classes or major, just something that I decided to do
 
 Skills improved:
