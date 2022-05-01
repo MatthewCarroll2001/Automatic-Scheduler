@@ -1,9 +1,0 @@
-##  Plan for full project   ##
-
-Files:
-    * Script for storing employee data for each employee
-    * Script for storing schedule information that the company needs
-    * Script for storing actual schedules for each week
-    * Databases themselves
-    * Utility script for datetime data and creating weeks for database
-    * Master script that runs and executes gathering employee data and scheduling for each week
